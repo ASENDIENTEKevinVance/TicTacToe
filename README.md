@@ -6,7 +6,7 @@ A modern web-based TicTacToe game built with ASP.NET MVC, featuring both single-
 ## How to Run the Game:
 
 ## System Requirements
-- .NET 6.0 SDK or later
+- .NET 8.0 SDK or later
 - Visual Studio 2022 OR Visual Studio Code
 - Web browser (Chrome, Brave, Opera, Edge recommended)
 - Internet connection (for initial package restore)
